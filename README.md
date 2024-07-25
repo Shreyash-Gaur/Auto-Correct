@@ -22,7 +22,6 @@ This repository contains a Jupyter notebook that implements a simple yet effecti
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
